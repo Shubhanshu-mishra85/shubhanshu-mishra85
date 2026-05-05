@@ -2,9 +2,6 @@
 
 🎓 BCA Student | 💻 Aspiring Full Stack Developer
 📍 Lucknow, India
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhanshu-mishra85&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships&center=true&width=500&height=50">
