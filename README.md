@@ -66,9 +66,8 @@ Git | GitHub | VS Code
 
 ## 📫 Contact Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-🔗 LinkedIn: (add your link)
-
+📧 Email: shivamamethiup@gmail.com
+🔗 LinkedIn: https://shubhanshu-mishra-vr1ev8s.gamma.site/
 ---
 
 ⭐ "Consistency is the key to success"
