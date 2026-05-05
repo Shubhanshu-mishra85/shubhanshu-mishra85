@@ -26,9 +26,6 @@ I enjoy building responsive websites and learning new technologies to improve my
   <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,git,github,vscode&theme=dark" />
 </p>
 
-<img src="https://progress-bar.dev/90/?title=HTML" />
-<img src="https://progress-bar.dev/85/?title=CSS" />
-<img src="https://progress-bar.dev/75/?title=JavaScript" />
 **Languages:**
 HTML | CSS | JavaScript | Java | C
 
