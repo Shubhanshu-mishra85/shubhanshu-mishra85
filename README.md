@@ -67,6 +67,7 @@ Git | GitHub | VS Code
 ## 📫 Contact Me
 
 📧 Email: shivamamethiup@gmail.com
+
 🔗 LinkedIn: https://shubhanshu-mishra-vr1ev8s.gamma.site/
 ---
 
