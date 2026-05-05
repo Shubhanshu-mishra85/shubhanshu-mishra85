@@ -20,8 +20,11 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,git,github,vscode&theme=dark" />
+</p>
 **Languages:**
 HTML | CSS | JavaScript | Java | C
 
