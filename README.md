@@ -1,75 +1,128 @@
-# Hi 👋, I'm Shubhanshu Mishra
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Shubhanshu+Mishra;Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships" />
+</h1>
 
-🎓 BCA Student | 💻 Aspiring Full Stack Developer
-📍 Lucknow, India
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships&center=true&width=500&height=50">
-</p>
+<h3 align="center">🎓 BCA Student | 💻 Aspiring Full Stack Developer | 📍 Lucknow, India</h3>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate developer with a strong foundation in web development and programming.
+I am a passionate developer with a strong foundation in web development and programming.  
 I enjoy building responsive websites and learning new technologies to improve my skills.
 
-🔹 I focus on writing clean and efficient code
-🔹 Interested in backend development & databases
-🔹 Currently improving problem-solving skills
+🔹 I focus on writing clean and efficient code  
+🔹 Interested in backend development & databases  
+🔹 Currently improving problem-solving skills  
 
 ---
 
-## 🚀 Tech Stack  
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,git,github,vscode&theme=dark" />
+  <a href="mailto:shivamamethiup@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+
+  <a href="https://github.com/Shubhanshu-mishra85">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+
+  <a href="https://shubhanshu-mishra-vr1ev8s.gamma.site/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="50"/>
+  </a>
 </p>
 
-**Languages:**
-HTML | CSS | JavaScript | Java | C
+---
 
-**Database:**
-MySQL
+## 🚀 Tech Stack
 
-**Tools:**
-Git | GitHub | VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,git,github,vscode,nodejs&theme=dark" />
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanshu-mishra85&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-🔹 **Real Estate Website**
+### 🏠 Real Estate Website
+✔ Built using HTML, CSS, JavaScript  
+✔ Responsive Property Listing UI  
+✔ Clean and modern design  
 
-* Built using HTML, CSS, JavaScript
-* Features: Property listings, responsive UI
-* Focus on clean design and usability
+---
 
-🔹 **College Website**
+### 🎓 College Website
+✔ Multi-page responsive website  
+✔ Admission, courses & contact sections  
+✔ User-friendly interface  
 
-* Developed a multi-page responsive website
-* Includes sections like admission, courses, contact
+---
 
-🔹 **Construction Management System (MySQL)**
-
-* Database-based project
-* Handles data storage and queries efficiently
+### 🏗 Construction Management System (MySQL)
+✔ Database-based project  
+✔ Efficient data handling & storage  
+✔ SQL query implementation  
 
 ---
 
 ## 📚 Currently Learning
 
-* Backend Development (Node.js)
-* Data Structures & Algorithms
+📌 Backend Development (Node.js)  
+📌 Data Structures & Algorithms  
+📌 MERN Stack Development  
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhanshu-mishra85&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhanshu-mishra85&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhanshu-mishra85&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhanshu-mishra85&theme=radical&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubhanshu-mishra85&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
 
 ## 📫 Contact Me
 
-📧 Email: shivamamethiup@gmail.com
+📧 Email: **shivamamethiup@gmail.com**
 
-🔗 LinkedIn: https://shubhanshu-mishra-vr1ev8s.gamma.site/
+🔗 Portfolio:  
+https://shubhanshu-mishra-vr1ev8s.gamma.site/
+
 ---
 
-⭐ "Consistency is the key to success"
+<h3 align="center">⭐ "Consistency is the key to success" ⭐</h3>
