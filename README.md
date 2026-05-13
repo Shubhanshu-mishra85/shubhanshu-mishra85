@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Shubhanshu+Mishra;Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Shubhanshu+Mishra;Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 BCA Student | 💻 Aspiring Full Stack Developer | 📍 Lucknow, India</h3>
+<h3 align="center">🎓 BCA Student | 💻 Aspiring Full Stack Developer | 📍 Lucknow, India 🇮🇳</h3>
 
 ---
 
@@ -11,9 +11,10 @@
 I am a passionate developer with a strong foundation in web development and programming.  
 I enjoy building responsive websites and learning new technologies to improve my skills.
 
-🔹 I focus on writing clean and efficient code  
+🔹 Focused on clean and efficient code  
 🔹 Interested in backend development & databases  
-🔹 Currently improving problem-solving skills  
+🔹 Improving problem-solving skills daily  
+🔹 Open to internships & collaboration  
 
 ---
 
@@ -35,7 +36,7 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,git,github,vscode,nodejs&theme=dark" />
@@ -43,7 +44,7 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 💻 Languages & Tools
+# 💻 Languages & Tools
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanshu-mishra85&layout=compact&theme=tokyonight"/>
@@ -51,30 +52,33 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🏠 Real Estate Website
+## 🏠 Real Estate Website
+
 ✔ Built using HTML, CSS, JavaScript  
-✔ Responsive Property Listing UI  
+✔ Responsive property listing UI  
 ✔ Clean and modern design  
 
 ---
 
-### 🎓 College Website
+## 🎓 College Website
+
 ✔ Multi-page responsive website  
-✔ Admission, courses & contact sections  
+✔ Includes admission, courses & contact sections  
 ✔ User-friendly interface  
 
 ---
 
-### 🏗 Construction Management System (MySQL)
+## 🏗 Construction Management System (MySQL)
+
 ✔ Database-based project  
 ✔ Efficient data handling & storage  
 ✔ SQL query implementation  
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 📌 Backend Development (Node.js)  
 📌 Data Structures & Algorithms  
@@ -82,7 +86,7 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhanshu-mishra85&show_icons=true&theme=tokyonight" height="180em"/>
@@ -92,7 +96,7 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhanshu-mishra85&theme=tokyo-night"/>
@@ -100,15 +104,15 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhanshu-mishra85&theme=radical&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhanshu-mishra85&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubhanshu-mishra85&label=Profile%20Views&color=blue&style=for-the-badge"/>
@@ -116,7 +120,7 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 📫 Contact Me
+# 📫 Contact Me
 
 📧 Email: **shivamamethiup@gmail.com**
 
@@ -125,4 +129,4 @@ https://shubhanshu-mishra-vr1ev8s.gamma.site/
 
 ---
 
-<h3 align="center">⭐ "Consistency is the key to success" ⭐</h3>
+<h3 align="center">⭐ Consistency is the key to success ⭐</h3>
