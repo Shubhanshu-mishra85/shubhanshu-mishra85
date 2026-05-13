@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Shubhanshu+Mishra;Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Shubhanshu+Mishra;Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎓 BCA Student | 💻 Aspiring Full Stack Developer | 📍 Lucknow, India 🇮🇳</h3>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I am a passionate developer with a strong foundation in web development and programming.  
 I enjoy building responsive websites and learning new technologies to improve my skills.
@@ -18,7 +18,7 @@ I enjoy building responsive websites and learning new technologies to improve my
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:shivamamethiup@gmail.com">
@@ -115,7 +115,7 @@ I enjoy building responsive websites and learning new technologies to improve my
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhanshu-mishra85&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Shubhanshu-mishra85&label=Profile%20Views&color=red&style=for-the-badge"/>
 </p>
 
 ---
