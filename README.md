@@ -1,132 +1,167 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Shubhanshu+Mishra;Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Open+to+Internships" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">🎓 BCA Student | 💻 Aspiring Full Stack Developer | 📍 Lucknow, India 🇮🇳</h3>
-
----
-
-# 🚀 About Me
-
-I am a passionate developer with a strong foundation in web development and programming.  
-I enjoy building responsive websites and learning new technologies to improve my skills.
-
-🔹 Focused on clean and efficient code  
-🔹 Interested in backend development & databases  
-🔹 Improving problem-solving skills daily  
-🔹 Open to internships & collaboration  
-
----
-
-# 🌐 Connect With Me
+# 👋 Hi, I'm Shubhanshu Mishra
 
 <p align="center">
-  <a href="mailto:shivamamethiup@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Shubhanshu%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
 
-  <a href="https://github.com/Shubhanshu-mishra85">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
+<p align="center">
+  <b>BCA Student • Web Development • Programming • Data Analytics</b>
+  <br/>
+  <i>Learn • Build • Improve • Repeat 🚀</i>
+</p>
 
-  <a href="https://shubhanshu-mishra-vr1ev8s.gamma.site/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="50"/>
-  </a>
+<p align="center">
+
+<a href="https://github.com/Shubhanshu-mishra85">
+<img src="https://img.shields.io/badge/GitHub-Shubhanshu--mishra85-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubhanshu-mishra-56ba69303">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
+
+- 🎓 BCA Student at **MUIT**
+- 💻 Interested in **Web Development & Programming**
+- 📊 Learning **Data Analytics with Excel & SQL**
+- 🌱 Currently improving my development and problem-solving skills
+- 💼 Open to **Internship Opportunities**
+- 🚀 Focused on building practical projects and real-world skills
+
+> **"Turning ideas into real projects, one commit at a time."**
+
+---
+
+## 🧠 Skills & Learning
+
+| Category | Technologies / Focus |
+|---|---|
+| 🌐 Web Development | HTML, CSS |
+| 💻 Programming | C, Java |
+| 🗄️ Database | SQL, MySQL, DBMS |
+| 📊 Data Analytics | Excel, Data Analysis |
+| 🛠️ Tools | Git, GitHub, MS Office |
+| 📚 Computer Science | DSA, COA, Web Technologies |
+
+---
+
+## 🏅 Learning Medals
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,git,github,vscode,nodejs&theme=dark" />
+
+<img src="https://img.shields.io/badge/🌐%20Web%20Development-Learner-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📊%20Data%20Analytics-Learner-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🗄️%20SQL-Learner-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻%20Programming-Learner-EA580C?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🚀%20Project%20Builder-Active-DB2777?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠%20Problem%20Solving-Developing-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📚%20Continuous%20Learning-Active-CA8A04?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 💻 Languages & Tools
+## 🏆 GitHub Achievements
+
+I'm continuously working toward earning more official GitHub achievements through:
+
+- ⭐ Stars
+- 🔀 Pull Requests
+- 🐛 Issues
+- 🧠 Discussions
+- 🤝 Open Source Contributions
+
+### 🎯 Achievement Goals
+
+⭐ Starstruck  
+⚡ Quickdraw  
+🦈 Pull Shark  
+🧠 Galaxy Brain  
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 MUIT College Website
+
+A college website project focused on:
+
+- Clean UI
+- Easy navigation
+- Responsive design
+- HTML & CSS
+
+---
+
+### 📊 Data Analytics Projects
+
+Working on Excel and SQL based projects for:
+
+- Data cleaning
+- Data analysis
+- Data visualization
+- Finding useful insights
+
+---
+
+### 💻 Web Development Practice
+
+A collection of HTML/CSS projects and experiments created while learning web development.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanshu-mishra85&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shubhanshu-mishra85&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanshu-mishra85&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shubhanshu-mishra85&theme=tokyonight&hide_border=true" width="70%"/>
+
 </p>
 
 ---
 
-# 🚀 Projects
+## 🎯 2026 Goals
 
-## 🏠 Real Estate Website
-
-✔ Built using HTML, CSS, JavaScript  
-✔ Responsive property listing UI  
-✔ Clean and modern design  
-
----
-
-## 🎓 College Website
-
-✔ Multi-page responsive website  
-✔ Includes admission, courses & contact sections  
-✔ User-friendly interface  
+- [ ] Build 10+ practical projects
+- [ ] Strengthen Java
+- [ ] Master SQL & MySQL
+- [ ] Improve DSA
+- [ ] Build Data Analytics projects
+- [ ] Contribute to Open Source
+- [ ] Get a good internship
+- [ ] Build a strong developer portfolio
 
 ---
 
-## 🏗 Construction Management System (MySQL)
+## 📚 Currently Learning
 
-✔ Database-based project  
-✔ Efficient data handling & storage  
-✔ SQL query implementation  
-
----
-
-# 📚 Currently Learning
-
-📌 Backend Development (Node.js)  
-📌 Data Structures & Algorithms  
-📌 MERN Stack Development  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhanshu-mishra85&show_icons=true&theme=tokyonight" height="180em"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhanshu-mishra85&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhanshu-mishra85&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhanshu-mishra85&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhanshu-mishra85&label=Profile%20Views&color=red&style=for-the-badge"/>
-</p>
-
----
-
-# 📫 Contact Me
-
-📧 Email: **shivamamethiup@gmail.com**
-
-🔗 Portfolio:  
-https://shubhanshu-mishra-vr1ev8s.gamma.site/
-
----
-
-<h3 align="center">⭐ Consistency is the key to success ⭐</h3>
+```text
+HTML & CSS        ████████████████████  90%
+SQL & MySQL       ████████████████      75%
+Java              ████████████          60%
+Data Analytics    ███████████           55%
+DSA               █████████             45%
+Git & GitHub      ███████████████       70%
